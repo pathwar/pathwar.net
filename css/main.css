@@ -254,6 +254,7 @@ button:focus{
     background: rgba(42, 64, 52, 0.36);
     font-size: 0.85rem;
     margin-bottom: 20px;
+    padding: 1rem;
 
 }
 .error, .valid{
