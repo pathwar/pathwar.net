@@ -10,6 +10,10 @@ We recommend you join our IRC channel on:
 - #pathwar-fr (for french people)
 - #pathwar (english)
 
+resources:
+
+- [Comparison of IRC clients (wikipedia)](https://en.wikipedia.org/wiki/Comparison_of_Internet_Relay_Chat_clients#General)
+
 
 # FAQ
 
