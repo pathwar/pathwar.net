@@ -174,9 +174,25 @@ p{
     line-height: 1.69;
 }
 
+.usermenu {
+  position: absolute;
+  top: 2rem;
+  right: 2rem;
+}
 
+.usermenu a {
+  color: #eaf1ed;;
+  display: inline-block;
+  margin-left: 1rem;
+}
 
+.usermenu a:link {
+  text-decoration: none;
+}
 
+.usermenu a:hover {
+  color: white;
+}
 
 
 /* SIGNUP FORM */
