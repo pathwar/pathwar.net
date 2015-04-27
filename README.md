@@ -51,7 +51,7 @@ Send us an email and we'll see what we can do.
 
 ## I have a question which is not listed here
 
-Send us an email at team@pathwar.net or create a new [issue](https://github.com/pathwar/pathwar.net/issues).
+Tell us on [IRC](#irc-), send us an [email](mailto:team@pathwar.net) or open an [issue](https://github.com/pathwar/pathwar.net/issues).
 
 We'll answer as soon as possible and put the question/answer here if we think it'll help more people.
 
