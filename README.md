@@ -48,6 +48,14 @@ We do not support that choice, because you won't learn what we're trying to teac
 Plus, you need to explain how you got the passphrase and it won't be possible since it's a script that did the work for you :)
 
 
+## Validation message ?
+
+For the school contests, you need to give a validation message that we will use to accept/refuse your validations.
+Plus, a cool explanation may gives you some bonus points.
+
+We accept messages in english, french and we love to have attached code
+
+
 ## I don't have any kekos left
 
 Send us an email and we'll see what we can do.
