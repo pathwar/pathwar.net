@@ -17,6 +17,8 @@ resources:
 
 # FAQ
 
+![](http://www.norwichtutors.co.uk/images/FAQ.gif)
+
 ## How to play ?
 
 You need to go on http://portal.pathwar.net and register an account.
