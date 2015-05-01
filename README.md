@@ -2,6 +2,8 @@
 
 A pentest challenge platform
 
+![](https://raw.githubusercontent.com/pathwar/assets/master/logos/v1/transparent.png)
+
 ## IRC ?
 
 We recommend you join our IRC channel on:
