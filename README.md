@@ -25,9 +25,15 @@ resources:
 
 You need to go on http://portal.pathwar.net and register an account.
 
-For school contests: you need to register with your school's email (epitech.eu, 42.fr, mit.edu)
+For school contests: you need to register with your school's email (@epitech.eu, @42.fr, @mit.edu, ...)
 You will then be able to create a team and invite your team mates.
 
+
+## We encounter issues when inviting people in our organization
+
+This is probably a bug on our side, contact us.
+
+:warning: **Do not create an organization if you are not the team leader !**
 
 ## Why do I need to stay anonymous ?
 
