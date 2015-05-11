@@ -54,7 +54,7 @@ It gives them extra points
 
 ## My session is over, what next ?
 
-##### If you forgot something during the project, please mail us at team@pathwar.net :
+##### If you forgot something during the project, please mail us at *team@pathwar.net* :
 
 * If you forgot to add explanations on how you validated a level,
 * If you have cool hacks to share (movies, pics, …),
@@ -65,8 +65,8 @@ It gives them extra points
 
 ##### If it was a school session, you should :
 
-* ensure your team on the portal and on the intranet are the same,
-* ensure your School Specific Login is set to your login_x on https://portal.pathwar.net/#/account,
+* ensure your team members on the portal and on the intranet are the same (we don't care about team names),
+* ensure your *School Specific Login* is set to your *login_x* on https://portal.pathwar.net/#/account,
 
 ##### How am I evaluated ?
 
