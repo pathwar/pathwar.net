@@ -52,6 +52,32 @@ The first three team that validate a level get a medal (gold, silver and bronze)
 It gives them extra points
 
 
+## My session is over, what next ?
+
+##### If you forgot something during the project, please mail us at team@pathwar.net :
+
+* If you forgot to add explanations on how you validated a level,
+* If you have cool hacks to share (movies, pics, …),
+* If you have code to show (scripts, IRC bots, …),
+* If you are sure to know who’s behind a team,
+* If you have feedbacks on the project,
+* If you have any pending questions,
+
+##### If it was a school session, you should :
+
+* ensure your team on the portal and on the intranet are the same,
+* ensure your School Specific Login is set to your login_x on https://portal.pathwar.net/#/account,
+
+##### How am I evaluated ?
+
+* we take in consideration your score on the portal, based on
+  * validations
+  * speed
+  * achievements
+* we will add bonuses and maluses for your validation comments
+* all the stuff you do on the portal after the effective end of the project won't count except sometimes as bonus, but we only look at your validations *during* the project
+* mega bonuses if you contribute to the project by creating new levels
+
 ## Can I use a vulnerability scanner ?
 
 We do not support that choice, because you won't learn what we're trying to teach you.
