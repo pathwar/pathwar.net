@@ -1,5 +1,7 @@
 # Pathwar
 
+## Deprecated! Go to the Pathwar monorepo: https://github.com/pathwar/pathwar
+
 A pentest challenge platform
 
 ![](https://raw.githubusercontent.com/pathwar/assets/master/logos/v1/transparent.png)
